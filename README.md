@@ -1,4 +1,4 @@
-# Java-advanced
+# Paradigms
 Solutions for the course by Georgy Korneev.
 
 ### Task conditions can be found here:
